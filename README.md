@@ -1,0 +1,2 @@
+# KioskMode
+App KioskMode Test
